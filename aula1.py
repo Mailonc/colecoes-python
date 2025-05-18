@@ -10,3 +10,4 @@ print(0.0, -1.5) # . float negativa
 
 # A função Type mostra o tipo que o Python
 print(type(-1.0))
+ 
